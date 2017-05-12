@@ -6,6 +6,8 @@
 
 ### COCOS Studio v2.3.2 
 
+cocos framework版本: cocos2d-x-3.8
+
 编辑-偏好设置-一键配置
 
 ### 开始编译
