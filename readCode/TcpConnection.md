@@ -52,3 +52,9 @@ Log错误
     Log.Error("error");
     
 socket.Shutdown()在socket.Close()之前调用，作用是保证在套接字关闭前信息全收到了。
+
+#### 索引
+
+`TcpManager`用字典管理所有的Tcp链接。Tcp链接的类型是`InnerTcpConnection`，继承自`TcpConnectionBase`.保存在m_conns.
+
+`TcpConnectionManager`
