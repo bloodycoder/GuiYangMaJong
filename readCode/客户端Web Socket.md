@@ -3,6 +3,6 @@
     ws.onopen = function(){}
     ws.onmessage = function(evt){window.alert(evt.data);}
     ws.onclose = function(){}
-
+    ws.send("hello world")
 
   
