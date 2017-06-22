@@ -7,7 +7,7 @@ cocos new -l js –no-native html5Cocos2d-js
 
 #### 服务器密码，IP
 
-123.207.172.12 root iwgame.yh201
+123.207.172.12 root Ugx4tVPmdXwICZpilc8F
 
 #### 编译方法 
 
